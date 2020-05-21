@@ -257,7 +257,7 @@
     --bg-popup-cell-block: hsla(0, 50%, 80%, 1);
     --bg-popup-cell-block-own: hsla(0, 100%, 40%, 1);
     --bg-popup-cell-label-mixed: hsla(45, 100%, 38%, 1);
-    --popup-icon-x-ink: #e22850 !important;
+    --popup-icon-x-ink: #e22850;
 
  /* Need to set colors in forms.css for moz-field stuffz
   -moz-FieldText: #888888 !important;  change from these names to either HEX value or variables.  default-ink
